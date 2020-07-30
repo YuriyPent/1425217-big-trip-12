@@ -1,7 +1,7 @@
 # Личный проект «Большое путешествие» [![Build status][travis-image]][travis-url]
 
 * Студент: [YURIY PENTYUGOV](https://up.htmlacademy.ru/ecmascript/12/user/1425217).
-* Наставник: `Неизвестно`.
+* Наставник: [Александр Белокур](https://htmlacademy.ru/profile/id256757).
 
 ---
 

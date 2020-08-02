@@ -1,16 +1,17 @@
-import { createAddFirstEventTemplate } from "./view/newEvent"
-import { createDayInfoTemplate } from "./view/dayInfo"
-import { createFilterTemplate } from "./view/filter"
-import { createSiteMenuTemplate } from "./view/menu"
-import { createSortTemplate } from "./view/sort"
-import { createTripDaysTemplate } from "./view/day"
-import { createTripDaysItemTemplate } from "./view/daysItem"
-import { createTripEventItemTemplate } from "./view/eventItem"
-import { createTripEventsListTemplate } from "./view/eventsList"
-import { createTripInfoTemplate } from "./view/info"
+import { createAddFirstEventTemplate } from "./view/newEvent.js"
+import { createDayInfoTemplate } from "./view/dayInfo.js"
+import { createFilterTemplate } from "./view/filter.js"
+import { createSiteMenuTemplate } from "./view/menu.js"
+import { createSortTemplate } from "./view/sort.js"
+import { createTripDaysTemplate } from "./view/day.js"
+import { createTripDaysItemTemplate } from "./view/daysItem.js"
+import { createTripEventItemTemplate } from "./view/eventItem.js"
+import { createTripEventsListTemplate } from "./view/eventsList.js"
+import { createTripInfoTemplate } from "./view/info.js"
 
 
 const ROUTE_POINT_COUNT = 3;
+
 const POSITION = {
     BEFORE_BEGIN: `beforebegin`,
     AFTER_BEGIN: `afterbegin`,

@@ -1,4 +1,4 @@
-const createDayInfoTemplate = () => {
+export const createDayInfoTemplate = () => {
     return (
         `<div class="day__info">
     <span class="day__counter">1</span>

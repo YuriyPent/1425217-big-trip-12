@@ -9,7 +9,6 @@ import { createTripEventItemTemplate } from "./view/eventItem.js"
 import { createTripEventsListTemplate } from "./view/eventsList.js"
 import { createTripInfoTemplate } from "./view/info.js"
 
-
 const ROUTE_POINT_COUNT = 3;
 
 const POSITION = {
